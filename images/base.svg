@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 276.83 435.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2afef;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #ffecec;
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-8 {
+        stroke-linecap: round;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #e6b9de;
+      }
+
+      .cls-3 {
+        fill: #e699f3;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-8, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #c499f3;
+      }
+
+      .cls-5 {
+        fill: #96e9c6;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        fill: #7360df;
+        stroke: #7360df;
+        stroke-width: 5px;
+      }
+
+      .cls-9 {
+        fill: url(#Gradiente_sem_nome_11-2);
+      }
+
+      .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        stroke-width: 0px;
+      }
+
+      .cls-10 {
+        fill: url(#Gradiente_sem_nome_11-4);
+      }
+
+      .cls-11 {
+        fill: url(#Gradiente_sem_nome_11-3);
+      }
+
+      .cls-12 {
+        fill: url(#Gradiente_sem_nome_11-6);
+      }
+
+      .cls-13 {
+        fill: url(#Gradiente_sem_nome_11-7);
+      }
+
+      .cls-14 {
+        fill: url(#Gradiente_sem_nome_11-5);
+      }
+
+      .cls-15 {
+        fill: url(#Gradiente_sem_nome_11);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_11" data-name="Gradiente sem nome 11" x1="226.79" y1="40.22" x2="226.79" y2="91.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#96e9c6"/>
+      <stop offset=".37" stop-color="#94e6c5"/>
+      <stop offset=".63" stop-color="#90dcc4"/>
+      <stop offset=".86" stop-color="#89cdc2"/>
+      <stop offset="1" stop-color="#83c0c1"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_11-2" data-name="Gradiente sem nome 11" x1="197.93" x2="197.93" xlink:href="#Gradiente_sem_nome_11"/>
+    <linearGradient id="Gradiente_sem_nome_11-3" data-name="Gradiente sem nome 11" x1="169.07" x2="169.07" xlink:href="#Gradiente_sem_nome_11"/>
+    <linearGradient id="Gradiente_sem_nome_11-4" data-name="Gradiente sem nome 11" x1="140.22" x2="140.22" xlink:href="#Gradiente_sem_nome_11"/>
+    <linearGradient id="Gradiente_sem_nome_11-5" data-name="Gradiente sem nome 11" x1="111.36" x2="111.36" xlink:href="#Gradiente_sem_nome_11"/>
+    <linearGradient id="Gradiente_sem_nome_11-6" data-name="Gradiente sem nome 11" x1="82.5" x2="82.5" xlink:href="#Gradiente_sem_nome_11"/>
+    <linearGradient id="Gradiente_sem_nome_11-7" data-name="Gradiente sem nome 11" x1="53.65" x2="53.65" xlink:href="#Gradiente_sem_nome_11"/>
+  </defs>
+  <g id="base">
+    <g>
+      <rect class="cls-3" x="-78.51" y="86.07" width="428" height="269.98" rx="23.34" ry="23.34" transform="translate(356.56 85.57) rotate(90)"/>
+      <line class="cls-6" x1="13.12" y1="7.4" x2="7.82" y2="13.47"/>
+      <line class="cls-6" x1="271.19" y1="419.77" x2="263.36" y2="428.5"/>
+      <rect class="cls-1" x="-72.66" y="79.51" width="428" height="269.98" rx="23.34" ry="23.34" transform="translate(355.84 73.16) rotate(90)"/>
+      <path class="cls-4" d="M243.19,26.43H41.76c-2.98,0-5.56,1.64-6.93,4.06,1.31-.96,2.92-1.53,4.67-1.53h201.43c4.39,0,7.95,3.56,7.95,7.95v58.1c0,1.41-.37,2.74-1.02,3.89,1.98-1.45,3.28-3.78,3.28-6.42v-58.1c0-4.39-3.56-7.95-7.95-7.95Z"/>
+      <path class="cls-5" d="M248.88,36.91c0-4.39-3.56-7.95-7.95-7.95H39.5c-1.75,0-3.36.57-4.67,1.53-.65,1.15-1.02,2.48-1.02,3.89v58.1c0,4.39,3.56,7.95,7.95,7.95h201.43c1.75,0,3.36-.57,4.67-1.53.65-1.15,1.02-2.48,1.02-3.89v-58.1Z"/>
+      <rect class="cls-15" x="213.29" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect class="cls-9" x="184.44" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect class="cls-11" x="155.58" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect class="cls-10" x="126.72" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect class="cls-14" x="97.87" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect class="cls-12" x="69.01" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect class="cls-13" x="40.15" y="40.22" width="26.99" height="51.48" rx="2.04" ry="2.04"/>
+      <rect id="adicao_down" class="cls-2" x="33.81" y="358.84" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-2" data-name="adicao_down" class="cls-2" x="207.84" y="358.84" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-3" data-name="adicao_down" class="cls-2" x="149.83" y="358.84" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-4" data-name="adicao_down" class="cls-2" x="91.82" y="358.84" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-5" data-name="adicao_down" class="cls-7" x="207.84" y="127.93" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-6" data-name="adicao_down" class="cls-7" x="33.81" y="185.66" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-7" data-name="adicao_down" class="cls-2" x="207.84" y="185.66" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-8" data-name="adicao_down" class="cls-2" x="149.83" y="185.66" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-9" data-name="adicao_down" class="cls-7" x="91.82" y="185.66" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-10" data-name="adicao_down" class="cls-2" x="33.81" y="243.38" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-11" data-name="adicao_down" class="cls-2" x="207.84" y="243.38" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-12" data-name="adicao_down" class="cls-2" x="149.83" y="243.38" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-13" data-name="adicao_down" class="cls-7" x="91.82" y="243.38" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-14" data-name="adicao_down" class="cls-2" x="33.81" y="301.11" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-15" data-name="adicao_down" class="cls-2" x="207.84" y="301.11" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-16" data-name="adicao_down" class="cls-2" x="149.83" y="301.11" width="43" height="43" rx="9.23" ry="9.23"/>
+      <rect id="adicao_down-17" data-name="adicao_down" class="cls-2" x="91.82" y="301.11" width="43" height="43" rx="9.23" ry="9.23"/>
+      <g>
+        <g>
+          <path class="cls-8" d="M69.34,133.82h0c5.04,0,9.14,4.09,9.14,9.14v16.29c0,1.88-1.53,3.41-3.41,3.41h-14.86v-19.7c0-5.04,4.09-9.14,9.14-9.14Z" transform="translate(120.85 -7.09) rotate(43.41)"/>
+          <path class="cls-8" d="M52.65,133.95h14.86c1.88,0,3.41,1.53,3.41,3.41v16.29c0,5.04-4.09,9.14-9.14,9.14h0c-5.04,0-9.14-4.09-9.14-9.14v-19.7h0Z" transform="translate(212.03 205.46) rotate(133.41)"/>
+        </g>
+        <g>
+          <path class="cls-8" d="M165.06,133.82h0c5.04,0,9.14,4.09,9.14,9.14v16.29c0,1.88-1.53,3.41-3.41,3.41h-14.86v-19.7c0-5.04,4.09-9.14,9.14-9.14Z" transform="translate(147.04 -72.88) rotate(43.41)"/>
+          <path class="cls-8" d="M148.37,133.95h14.86c1.88,0,3.41,1.53,3.41,3.41v16.29c0,5.04-4.09,9.14-9.14,9.14h0c-5.04,0-9.14-4.09-9.14-9.14v-19.7h0Z" transform="translate(373.54 135.93) rotate(133.41)"/>
+        </g>
+        <g>
+          <path class="cls-8" d="M117.2,133.82h0c5.04,0,9.14,4.09,9.14,9.14v16.29c0,1.88-1.53,3.41-3.41,3.41h-14.86v-19.7c0-5.04,4.09-9.14,9.14-9.14Z" transform="translate(133.95 -39.99) rotate(43.41)"/>
+          <path class="cls-8" d="M100.51,133.95h14.86c1.88,0,3.41,1.53,3.41,3.41v16.29c0,5.04-4.09,9.14-9.14,9.14h0c-5.04,0-9.14-4.09-9.14-9.14v-19.7h0Z" transform="translate(292.79 170.69) rotate(133.41)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

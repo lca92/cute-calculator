@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #33186b;
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #fae7f3;
+        stroke: #ffecec;
+      }
+    </style>
+  </defs>
+  <g id="botoes_down">
+    <g>
+      <rect id="adicao_up" class="cls-2" x=".5" y=".5" width="43" height="43" rx="9.23" ry="9.23"/>
+      <path class="cls-1" d="M30.57,22c0,3.38-.53,7.49-1.92,9.8-1.57,2.61-4.14,3.21-6.65,3.21-2.37,0-5.23-.79-6.78-3.14s-1.79-6.27-1.79-9.86c0-3.29.27-6.9,1.6-9.19,1.57-2.71,4.4-3.81,6.97-3.81,2.12,0,4.83,1.23,6.33,3.17,1.84,2.39,2.24,5.87,2.24,9.83Z"/>
+    </g>
+  </g>
+</svg>

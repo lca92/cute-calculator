@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.37 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2afef;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ffecec;
+      }
+
+      .cls-3 {
+        stroke: #33186b;
+        stroke-width: 5px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        stroke: #ffecec;
+      }
+
+      .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        fill: #fae7f3;
+      }
+    </style>
+  </defs>
+  <g id="botoes_up">
+    <g>
+      <g>
+        <line class="cls-1" x1="39.29" y1="42.97" x2="41.89" y2="39.98"/>
+        <line class="cls-4" x1="39.29" y1="42.97" x2="41.89" y2="39.98"/>
+        <line class="cls-4" x1="39.29" y1="42.97" x2="41.89" y2="39.98"/>
+        <line class="cls-2" x1="39.29" y1="42.97" x2="41.89" y2="39.98"/>
+      </g>
+      <g>
+        <rect id="adicao_up" class="cls-6" x=".87" y=".5" width="43" height="43" rx="9.23" ry="9.23"/>
+        <g>
+          <line class="cls-5" x1=".5" y1="6.74" x2="3.09" y2="3.75"/>
+          <line class="cls-4" x1=".5" y1="6.74" x2="3.09" y2="3.75"/>
+          <line class="cls-2" x1=".5" y1="6.74" x2="3.09" y2="3.75"/>
+        </g>
+        <path class="cls-3" d="M29.99,15.15c-1.8-1.88-4.34-3.06-7.16-3.06-5.47,0-9.91,4.44-9.91,9.91s4.44,9.91,9.91,9.91c3.98,0,6.52-1.87,8-4.06"/>
+      </g>
+    </g>
+  </g>
+</svg>
