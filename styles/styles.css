@@ -107,3 +107,7 @@ a:visited {
 
 #nine_up {
 }
+
+button {
+  background-color: rgba(0, 0, 0, 0);
+}
