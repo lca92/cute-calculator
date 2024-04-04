@@ -3,7 +3,6 @@
 }
 
 body {
-  /* background-color: #87a2fb; */
   background-color: #faf3f0;
 }
 
@@ -23,12 +22,96 @@ div {
 
 #base {
   width: 80%;
-  /* height: 60%; */
 }
 
-#c_up {
+#clear_up {
   position: relative;
-  width: 14em;
-  left: 68em;
-  bottom: -41em;
+  width: 3.4em;
+  top: -25em;
+  /* left: 18.92em; */
+  /* bottom: 34.55em; */
+}
+
+#equality_up {
+  position: relative;
+  width: 3.4em;
+  left: 1em;
+  bottom: 1em;
+  top: -13em;
+}
+
+#sum_up {
+  position: relative;
+  width: 3.4em;
+  top: -13em;
+}
+#subtraction_up {
+  position: relative;
+  width: 3.4em;
+  top: -14em;
+}
+#multiplication_up {
+  position: relative;
+  width: 3.4em;
+  top: -19em;
+}
+#division_up {
+  position: relative;
+  width: 3.4em;
+  top: -20em;
+}
+#dot_up {
+  position: relative;
+  width: 3.4em;
+  top: -13em;
+}
+#zero_up {
+  position: relative;
+  width: 3.4em;
+  top: -10em;
+}
+#one_up {
+  position: relative;
+  width: 3.4em;
+  top: -14em;
+}
+#two_up {
+  position: relative;
+  width: 3.4em;
+  top: -14em;
+}
+#three_up {
+  position: relative;
+  width: 3.4em;
+  top: -14em;
+}
+#four_up {
+  position: relative;
+  width: 3.4em;
+  top: -15em;
+}
+#five_up {
+  position: relative;
+  width: 3.4em;
+  top: -15em;
+}
+#six_up {
+  position: relative;
+  width: 3.4em;
+  top: -19em;
+}
+#seven_up {
+  position: relative;
+  width: 3.4em;
+  top: -20em;
+}
+#eight_up {
+  position: relative;
+  width: 3.4em;
+  top: -20em;
+}
+#nine_up {
+  position: relative;
+  width: 3.4em;
+  top: -20em;
 }
